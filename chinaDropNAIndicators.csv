@@ -1,0 +1,113 @@
+,0
+0,Era
+1,Age dependency ratio (% of working-age population)
+2,"Age dependency ratio, old (% of working-age population)"
+3,"Age dependency ratio, young (% of working-age population)"
+4,"Agriculture, forestry, and fishing, value added (% of GDP)"
+5,"Agriculture, forestry, and fishing, value added (constant 2015 US$)"
+6,"Agriculture, forestry, and fishing, value added (constant LCU)"
+7,"Agriculture, forestry, and fishing, value added (current LCU)"
+8,"Agriculture, forestry, and fishing, value added (current US$)"
+9,Arms exports (SIPRI trend indicator values)
+10,Arms imports (SIPRI trend indicator values)
+11,DEC alternative conversion factor (LCU per US$)
+12,Exports of goods and services (% of GDP)
+13,Exports of goods and services (current LCU)
+14,Exports of goods and services (current US$)
+15,External balance on goods and services (% of GDP)
+16,External balance on goods and services (current LCU)
+17,External balance on goods and services (current US$)
+18,GDP (constant 2015 US$)
+19,GDP (constant LCU)
+20,GDP (current LCU)
+21,GDP (current US$)
+22,GDP deflator (base year varies by country)
+23,GDP per capita (constant 2015 US$)
+24,GDP per capita (constant LCU)
+25,GDP per capita (current LCU)
+26,GDP per capita (current US$)
+27,GNI (current LCU)
+28,GNI (current US$)
+29,GNI per capita (current LCU)
+30,Imports of goods and services (% of GDP)
+31,Imports of goods and services (current LCU)
+32,Imports of goods and services (current US$)
+33,"Industry (including construction), value added (% of GDP)"
+34,"Industry (including construction), value added (constant 2015 US$)"
+35,"Industry (including construction), value added (constant LCU)"
+36,"Industry (including construction), value added (current LCU)"
+37,"Industry (including construction), value added (current US$)"
+38,Merchandise exports (current US$)
+39,Merchandise imports (current US$)
+40,Merchandise trade (% of GDP)
+41,Net migration
+42,"Official exchange rate (LCU per US$, period average)"
+43,"Population ages 00-04, female (% of female population)"
+44,"Population ages 00-04, male (% of male population)"
+45,Population ages 0-14 (% of total population)
+46,"Population ages 0-14, female"
+47,"Population ages 0-14, female (% of female population)"
+48,"Population ages 0-14, male"
+49,"Population ages 0-14, male (% of male population)"
+50,"Population ages 0-14, total"
+51,"Population ages 05-09, female (% of female population)"
+52,"Population ages 05-09, male (% of male population)"
+53,"Population ages 10-14, female (% of female population)"
+54,"Population ages 10-14, male (% of male population)"
+55,"Population ages 15-19, female (% of female population)"
+56,"Population ages 15-19, male (% of male population)"
+57,Population ages 15-64 (% of total population)
+58,"Population ages 15-64, female"
+59,"Population ages 15-64, female (% of female population)"
+60,"Population ages 15-64, male"
+61,"Population ages 15-64, male (% of male population)"
+62,"Population ages 15-64, total"
+63,"Population ages 20-24, female (% of female population)"
+64,"Population ages 20-24, male (% of male population)"
+65,"Population ages 25-29, female (% of female population)"
+66,"Population ages 25-29, male (% of male population)"
+67,"Population ages 30-34, female (% of female population)"
+68,"Population ages 30-34, male (% of male population)"
+69,"Population ages 35-39, female (% of female population)"
+70,"Population ages 35-39, male (% of male population)"
+71,"Population ages 40-44, female (% of female population)"
+72,"Population ages 40-44, male (% of male population)"
+73,"Population ages 45-49, female (% of female population)"
+74,"Population ages 45-49, male (% of male population)"
+75,"Population ages 50-54, female (% of female population)"
+76,"Population ages 50-54, male (% of male population)"
+77,"Population ages 55-59, female (% of female population)"
+78,"Population ages 55-59, male (% of male population)"
+79,"Population ages 60-64, female (% of female population)"
+80,"Population ages 60-64, male (% of male population)"
+81,Population ages 65 and above (% of total population)
+82,"Population ages 65 and above, female"
+83,"Population ages 65 and above, female (% of female population)"
+84,"Population ages 65 and above, male"
+85,"Population ages 65 and above, male (% of male population)"
+86,"Population ages 65 and above, total"
+87,"Population ages 65-69, female (% of female population)"
+88,"Population ages 65-69, male (% of male population)"
+89,"Population ages 70-74, female (% of female population)"
+90,"Population ages 70-74, male (% of male population)"
+91,"Population ages 75-79, female (% of female population)"
+92,"Population ages 75-79, male (% of male population)"
+93,"Population ages 80 and above, female (% of female population)"
+94,"Population ages 80 and above, male (% of male population)"
+95,Population in largest city
+96,Population in the largest city (% of urban population)
+97,Population in urban agglomerations of more than 1 million
+98,Population in urban agglomerations of more than 1 million (% of total population)
+99,"Population, female"
+100,"Population, female (% of total population)"
+101,"Population, male"
+102,"Population, male (% of total population)"
+103,"Population, total"
+104,Rural population
+105,Rural population (% of total population)
+106,"Services, value added (% of GDP)"
+107,"Services, value added (current LCU)"
+108,"Services, value added (current US$)"
+109,Trade (% of GDP)
+110,Urban population
+111,Urban population (% of total population)

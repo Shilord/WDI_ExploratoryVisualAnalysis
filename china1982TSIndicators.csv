@@ -1,0 +1,184 @@
+,0
+0,Era
+1,"Adolescent fertility rate (births per 1,000 women ages 15-19)"
+2,Age dependency ratio (% of working-age population)
+3,"Age dependency ratio, old (% of working-age population)"
+4,"Age dependency ratio, young (% of working-age population)"
+5,Agricultural land (% of land area)
+6,Agricultural land (sq. km)
+7,"Agriculture, forestry, and fishing, value added (% of GDP)"
+8,"Agriculture, forestry, and fishing, value added (annual % growth)"
+9,"Agriculture, forestry, and fishing, value added (constant 2015 US$)"
+10,"Agriculture, forestry, and fishing, value added (constant LCU)"
+11,"Agriculture, forestry, and fishing, value added (current LCU)"
+12,"Agriculture, forestry, and fishing, value added (current US$)"
+13,Aquaculture production (metric tons)
+14,Arable land (% of land area)
+15,Arable land (hectares per person)
+16,Arable land (hectares)
+17,Arms exports (SIPRI trend indicator values)
+18,Arms imports (SIPRI trend indicator values)
+19,Average precipitation in depth (mm per year)
+20,"Birth rate, crude (per 1,000 people)"
+21,Capture fisheries production (metric tons)
+22,Cereal production (metric tons)
+23,Cereal yield (kg per hectare)
+24,Changes in inventories (current LCU)
+25,Changes in inventories (current US$)
+26,Crop production index (2014-2016 = 100)
+27,"Death rate, crude (per 1,000 people)"
+28,DEC alternative conversion factor (LCU per US$)
+29,Discrepancy in expenditure estimate of GDP (current LCU)
+30,Exports of goods and services (% of GDP)
+31,Exports of goods and services (current LCU)
+32,Exports of goods and services (current US$)
+33,External balance on goods and services (% of GDP)
+34,External balance on goods and services (current LCU)
+35,External balance on goods and services (current US$)
+36,"Fertility rate, total (births per woman)"
+37,Fertilizer consumption (% of fertilizer production)
+38,Fertilizer consumption (kilograms per hectare of arable land)
+39,Final consumption expenditure (% of GDP)
+40,Final consumption expenditure (current LCU)
+41,Final consumption expenditure (current US$)
+42,Food production index (2014-2016 = 100)
+43,GDP (constant 2015 US$)
+44,GDP (constant LCU)
+45,GDP (current LCU)
+46,GDP (current US$)
+47,GDP deflator (base year varies by country)
+48,GDP growth (annual %)
+49,GDP per capita (constant 2015 US$)
+50,GDP per capita (constant LCU)
+51,GDP per capita (current LCU)
+52,GDP per capita (current US$)
+53,GDP per capita growth (annual %)
+54,General government final consumption expenditure (% of GDP)
+55,General government final consumption expenditure (current LCU)
+56,General government final consumption expenditure (current US$)
+57,GNI (current LCU)
+58,GNI (current US$)
+59,GNI per capita (current LCU)
+60,"GNI per capita, Atlas method (current US$)"
+61,"GNI, Atlas method (current US$)"
+62,Gross capital formation (% of GDP)
+63,Gross capital formation (current LCU)
+64,Gross capital formation (current US$)
+65,Gross domestic savings (% of GDP)
+66,Gross domestic savings (current LCU)
+67,Gross domestic savings (current US$)
+68,Gross fixed capital formation (% of GDP)
+69,Gross fixed capital formation (current LCU)
+70,Gross fixed capital formation (current US$)
+71,Gross national expenditure (% of GDP)
+72,Gross national expenditure (current LCU)
+73,Gross national expenditure (current US$)
+74,"Hospital beds (per 1,000 people)"
+75,Households and NPISHs final consumption expenditure (% of GDP)
+76,Households and NPISHs Final consumption expenditure (current LCU)
+77,Households and NPISHs Final consumption expenditure (current US$)
+78,Imports of goods and services (% of GDP)
+79,Imports of goods and services (current LCU)
+80,Imports of goods and services (current US$)
+81,"Industry (including construction), value added (% of GDP)"
+82,"Industry (including construction), value added (annual % growth)"
+83,"Industry (including construction), value added (constant 2015 US$)"
+84,"Industry (including construction), value added (constant LCU)"
+85,"Industry (including construction), value added (current LCU)"
+86,"Industry (including construction), value added (current US$)"
+87,"Inflation, GDP deflator (annual %)"
+88,Land area (sq. km)
+89,Land under cereal production (hectares)
+90,"Life expectancy at birth, female (years)"
+91,"Life expectancy at birth, male (years)"
+92,"Life expectancy at birth, total (years)"
+93,Livestock production index (2014-2016 = 100)
+94,Merchandise exports (current US$)
+95,Merchandise imports (current US$)
+96,Merchandise trade (% of GDP)
+97,"Mortality rate, adult, female (per 1,000 female adults)"
+98,"Mortality rate, adult, male (per 1,000 male adults)"
+99,Net migration
+100,"Official exchange rate (LCU per US$, period average)"
+101,Permanent cropland (% of land area)
+102,"Physicians (per 1,000 people)"
+103,"Population ages 00-04, female (% of female population)"
+104,"Population ages 00-04, male (% of male population)"
+105,Population ages 0-14 (% of total population)
+106,"Population ages 0-14, female"
+107,"Population ages 0-14, female (% of female population)"
+108,"Population ages 0-14, male"
+109,"Population ages 0-14, male (% of male population)"
+110,"Population ages 0-14, total"
+111,"Population ages 05-09, female (% of female population)"
+112,"Population ages 05-09, male (% of male population)"
+113,"Population ages 10-14, female (% of female population)"
+114,"Population ages 10-14, male (% of male population)"
+115,"Population ages 15-19, female (% of female population)"
+116,"Population ages 15-19, male (% of male population)"
+117,Population ages 15-64 (% of total population)
+118,"Population ages 15-64, female"
+119,"Population ages 15-64, female (% of female population)"
+120,"Population ages 15-64, male"
+121,"Population ages 15-64, male (% of male population)"
+122,"Population ages 15-64, total"
+123,"Population ages 20-24, female (% of female population)"
+124,"Population ages 20-24, male (% of male population)"
+125,"Population ages 25-29, female (% of female population)"
+126,"Population ages 25-29, male (% of male population)"
+127,"Population ages 30-34, female (% of female population)"
+128,"Population ages 30-34, male (% of male population)"
+129,"Population ages 35-39, female (% of female population)"
+130,"Population ages 35-39, male (% of male population)"
+131,"Population ages 40-44, female (% of female population)"
+132,"Population ages 40-44, male (% of male population)"
+133,"Population ages 45-49, female (% of female population)"
+134,"Population ages 45-49, male (% of male population)"
+135,"Population ages 50-54, female (% of female population)"
+136,"Population ages 50-54, male (% of male population)"
+137,"Population ages 55-59, female (% of female population)"
+138,"Population ages 55-59, male (% of male population)"
+139,"Population ages 60-64, female (% of female population)"
+140,"Population ages 60-64, male (% of male population)"
+141,Population ages 65 and above (% of total population)
+142,"Population ages 65 and above, female"
+143,"Population ages 65 and above, female (% of female population)"
+144,"Population ages 65 and above, male"
+145,"Population ages 65 and above, male (% of male population)"
+146,"Population ages 65 and above, total"
+147,"Population ages 65-69, female (% of female population)"
+148,"Population ages 65-69, male (% of male population)"
+149,"Population ages 70-74, female (% of female population)"
+150,"Population ages 70-74, male (% of male population)"
+151,"Population ages 75-79, female (% of female population)"
+152,"Population ages 75-79, male (% of male population)"
+153,"Population ages 80 and above, female (% of female population)"
+154,"Population ages 80 and above, male (% of male population)"
+155,Population density (people per sq. km of land area)
+156,Population growth (annual %)
+157,Population in largest city
+158,Population in the largest city (% of urban population)
+159,Population in urban agglomerations of more than 1 million
+160,Population in urban agglomerations of more than 1 million (% of total population)
+161,"Population, female"
+162,"Population, female (% of total population)"
+163,"Population, male"
+164,"Population, male (% of total population)"
+165,"Population, total"
+166,Renewable internal freshwater resources per capita (cubic meters)
+167,"Renewable internal freshwater resources, total (billion cubic meters)"
+168,Rural population
+169,Rural population (% of total population)
+170,Rural population growth (annual %)
+171,"Services, value added (% of GDP)"
+172,"Services, value added (current LCU)"
+173,"Services, value added (current US$)"
+174,Sex ratio at birth (male births per female births)
+175,Surface area (sq. km)
+176,"Survival to age 65, female (% of cohort)"
+177,"Survival to age 65, male (% of cohort)"
+178,Total fisheries production (metric tons)
+179,Trade (% of GDP)
+180,Urban population
+181,Urban population (% of total population)
+182,Urban population growth (annual %)
